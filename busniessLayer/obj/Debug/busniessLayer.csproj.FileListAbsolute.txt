@@ -1,0 +1,2 @@
+F:\My_github_apps\TaskManegment\TaskManegar\busniessLayer\obj\Debug\busniessLayer.csproj.AssemblyReference.cache
+F:\My_github_apps\TaskManegment\TaskManegar\busniessLayer\obj\Debug\busniessLayer.csproj.CoreCompileInputs.cache

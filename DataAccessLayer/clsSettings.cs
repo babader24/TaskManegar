@@ -8,5 +8,6 @@ namespace DataAccessLayer
 {
     public class clsSettings
     {
+        public static string ConnetionString = "Server=.;Database=DVLD;User Id=sa;Password=738578830;";
     }
 }
