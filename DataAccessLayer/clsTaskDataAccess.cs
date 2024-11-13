@@ -11,14 +11,15 @@ namespace DataAccessLayer
 {
     public class clsTaskDataAccess
     {
-        public static DataTable GetAllasks()
+        public static DataTable GetAllTasks(int UserID)
         {
             DataTable dt = new DataTable(); 
 
             SqlConnection connection = new SqlConnection(clsSettings.ConnetionString);
-            string query = "select * from Task";
+            string query = "select * from Task Where UserID = @UserID";
 
             SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@UserID", UserID);
 
             try
             {

@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="TaskManegement.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Task Manegement</title>
+    <!-->  Bootstrap css Files  <-->
+    <link rel ="stylesheet" href ="Bootsrap\css\bootstrap.min.css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <p>mmm</p>
+</body>
+</html>

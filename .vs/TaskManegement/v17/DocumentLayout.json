@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|f:\\my_github_apps\\taskmanegment\\taskmanegar\\dataaccesslayer\\clstaskdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|F:\\My_github_apps\\TaskManegment\\TaskManegar\\dataaccesslayer\\clscategorydataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clscategorydataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|F:\\My_github_apps\\TaskManegment\\TaskManegar\\dataaccesslayer\\clstaskdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clstaskdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|f:\\my_github_apps\\taskmanegment\\taskmanegar\\dataaccesslayer\\clscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E55B20A6-DE52-4D41-B18C-60A4DFE7FDE3}|busniessLayer\\busniessLayer.csproj|F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniesslayer\\clstasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55B20A6-DE52-4D41-B18C-60A4DFE7FDE3}|busniessLayer\\busniessLayer.csproj|solutionrelative:busniesslayer\\clstasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|F:\\My_github_apps\\TaskManegment\\TaskManegar\\dataaccesslayer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE538042-A6F8-4C4B-B259-3A74F9FE81AC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsusersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E55B20A6-DE52-4D41-B18C-60A4DFE7FDE3}|busniessLayer\\busniessLayer.csproj|f:\\my_github_apps\\taskmanegment\\taskmanegar\\busniesslayer\\clscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55B20A6-DE52-4D41-B18C-60A4DFE7FDE3}|busniessLayer\\busniessLayer.csproj|solutionrelative:busniesslayer\\clscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E55B20A6-DE52-4D41-B18C-60A4DFE7FDE3}|busniessLayer\\busniessLayer.csproj|F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55B20A6-DE52-4D41-B18C-60A4DFE7FDE3}|busniessLayer\\busniessLayer.csproj|solutionrelative:busniesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8EB7654-0040-412F-9478-8BEA7E85C0BF}|TaskManegement.csproj|f:\\my_github_apps\\taskmanegment\\taskmanegar\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B8EB7654-0040-412F-9478-8BEA7E85C0BF}|TaskManegement.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsCategory.cs",
-              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsCategory.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\clsCategory.cs",
-              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsCategory.cs",
-              "RelativeToolTip": "DataAccessLayer\\clsCategory.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCwAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:16:32.091Z",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T15:29:58.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "clsCategory.cs",
+              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniessLayer\\clsCategory.cs",
+              "RelativeDocumentMoniker": "busniessLayer\\clsCategory.cs",
+              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniessLayer\\clsCategory.cs",
+              "RelativeToolTip": "busniessLayer\\clsCategory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:19:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsTasks.cs",
+              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniessLayer\\clsTasks.cs",
+              "RelativeDocumentMoniker": "busniessLayer\\clsTasks.cs",
+              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniessLayer\\clsTasks.cs",
+              "RelativeToolTip": "busniessLayer\\clsTasks.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:05:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "clsTaskDataAccess.cs",
               "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsTaskDataAccess.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\clsTaskDataAccess.cs",
               "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsTaskDataAccess.cs",
               "RelativeToolTip": "DataAccessLayer\\clsTaskDataAccess.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAswE0AAAAQAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T12:12:00.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsUsersDataAccess.cs",
-              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsUsersDataAccess.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\clsUsersDataAccess.cs",
-              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsUsersDataAccess.cs",
-              "RelativeToolTip": "DataAccessLayer\\clsUsersDataAccess.cs",
-              "ViewState": "AQIAAJgAAAAAAAAAAAAAAG4AAAA/AAAA",
+              "DocumentIndex": 0,
+              "Title": "clsCategoryDataAccess.cs",
+              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsCategoryDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsCategoryDataAccess.cs",
+              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\DataAccessLayer\\clsCategoryDataAccess.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsCategoryDataAccess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:37:27.586Z",
+              "WhenOpened": "2024-11-12T16:16:32.091Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "busniessLayer\\Class1.cs",
-              "ToolTip": "F:\\My_github_apps\\TaskManegment\\TaskManegar\\busniessLayer\\Class1.cs",
-              "RelativeToolTip": "busniessLayer\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:21:58.755Z"
             }
           ]
         }

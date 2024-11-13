@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clsCategory.cs" />
+    <Compile Include="clsAchievementsDataAccess.cs" />
+    <Compile Include="clsCategoryDataAccess.cs" />
     <Compile Include="clsSettings.cs" />
     <Compile Include="clsTaskDataAccess.cs" />
     <Compile Include="clsUsersDataAccess.cs" />
